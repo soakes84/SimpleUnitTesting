@@ -1,0 +1,11 @@
+/Users/backupcomputer/Projects/BagTest/BagTest/bin/Debug/netcoreapp2.0/BagTest.deps.json
+/Users/backupcomputer/Projects/BagTest/BagTest/bin/Debug/netcoreapp2.0/BagTest.runtimeconfig.json
+/Users/backupcomputer/Projects/BagTest/BagTest/bin/Debug/netcoreapp2.0/BagTest.runtimeconfig.dev.json
+/Users/backupcomputer/Projects/BagTest/BagTest/bin/Debug/netcoreapp2.0/BagTest.dll
+/Users/backupcomputer/Projects/BagTest/BagTest/bin/Debug/netcoreapp2.0/BagTest.pdb
+/Users/backupcomputer/Projects/BagTest/BagTest/obj/Debug/netcoreapp2.0/BagTest.csprojResolveAssemblyReference.cache
+/Users/backupcomputer/Projects/BagTest/BagTest/obj/Debug/netcoreapp2.0/BagTest.csproj.CoreCompileInputs.cache
+/Users/backupcomputer/Projects/BagTest/BagTest/obj/Debug/netcoreapp2.0/BagTest.AssemblyInfoInputs.cache
+/Users/backupcomputer/Projects/BagTest/BagTest/obj/Debug/netcoreapp2.0/BagTest.AssemblyInfo.cs
+/Users/backupcomputer/Projects/BagTest/BagTest/obj/Debug/netcoreapp2.0/BagTest.dll
+/Users/backupcomputer/Projects/BagTest/BagTest/obj/Debug/netcoreapp2.0/BagTest.pdb

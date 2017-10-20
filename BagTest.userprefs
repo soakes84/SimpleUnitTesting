@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{AC888DB5-BE51-4DA9-81D7-69D3EDE95559}|Default">
+  <MonoDevelop.Ide.ItemProperties.BagTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BagTest/Bag.cs">
+    <Files>
+      <File FileName="BagTest/Program.cs" Line="1" Column="1" />
+      <File FileName="BagTest.Test/UnitTest1.cs" Line="12" Column="51" />
+      <File FileName="BagTest/Bag.cs" Line="11" Column="53" />
+      <File FileName="BagTest/Volume.cs" Line="14" Column="29" />
+      <File FileName="BagTest/Content.cs" Line="11" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="BagTest" expanded="True">
+            <Node name="BagTest.Test" expanded="True">
+              <Node name="BagTest" expanded="True">
+                <Node name="Test" expanded="True">
+                  <Node name="UnitTest1" expanded="True">
+                    <Node name="Purse_Is_Of_Type_Bag" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,16 @@
+/Users/backupcomputer/Projects/BagTest/BagTest.Test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/backupcomputer/Projects/BagTest/BagTest.Test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/backupcomputer/Projects/BagTest/BagTest.Test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/backupcomputer/Projects/BagTest/BagTest.Test/bin/Debug/netcoreapp2.0/BagTest.Test.deps.json
+/Users/backupcomputer/Projects/BagTest/BagTest.Test/bin/Debug/netcoreapp2.0/BagTest.Test.runtimeconfig.json
+/Users/backupcomputer/Projects/BagTest/BagTest.Test/bin/Debug/netcoreapp2.0/BagTest.Test.runtimeconfig.dev.json
+/Users/backupcomputer/Projects/BagTest/BagTest.Test/bin/Debug/netcoreapp2.0/BagTest.Test.dll
+/Users/backupcomputer/Projects/BagTest/BagTest.Test/bin/Debug/netcoreapp2.0/BagTest.Test.pdb
+/Users/backupcomputer/Projects/BagTest/BagTest.Test/bin/Debug/netcoreapp2.0/BagTest.dll
+/Users/backupcomputer/Projects/BagTest/BagTest.Test/bin/Debug/netcoreapp2.0/BagTest.pdb
+/Users/backupcomputer/Projects/BagTest/BagTest.Test/obj/Debug/netcoreapp2.0/BagTest.Test.csprojResolveAssemblyReference.cache
+/Users/backupcomputer/Projects/BagTest/BagTest.Test/obj/Debug/netcoreapp2.0/BagTest.Test.csproj.CoreCompileInputs.cache
+/Users/backupcomputer/Projects/BagTest/BagTest.Test/obj/Debug/netcoreapp2.0/BagTest.Test.AssemblyInfoInputs.cache
+/Users/backupcomputer/Projects/BagTest/BagTest.Test/obj/Debug/netcoreapp2.0/BagTest.Test.AssemblyInfo.cs
+/Users/backupcomputer/Projects/BagTest/BagTest.Test/obj/Debug/netcoreapp2.0/BagTest.Test.dll
+/Users/backupcomputer/Projects/BagTest/BagTest.Test/obj/Debug/netcoreapp2.0/BagTest.Test.pdb
